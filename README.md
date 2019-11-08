@@ -2,7 +2,7 @@
 This is a work in progress Docker container for [Ripple](https://github.com/google/mysql-ripple), "a server that can serve as a middleman in MySQL replication"
 
 ## Status
-It builds and runs, but this is simply a first attempt that provides me with a way to kick the tires. PRs welcomed.
+This Dockerfile builds a 103MB container that lets you kick the tires on Rippled. PRs welcome.
 
 # TODO
 * Play with it more, write some usage instructions
